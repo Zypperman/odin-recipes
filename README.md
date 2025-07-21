@@ -2,8 +2,8 @@
 
 ## Description
 
-This is just a project assignment site for what recipes odin will cook.
-Access this site [here](https://Zypperman.github.io/odin-recipes)
+This is just a project assignment site for what recipes odin will cook.  
+Access this site [here](https://Zypperman.github.io/odin-recipes).
 
 ## Skills
 
